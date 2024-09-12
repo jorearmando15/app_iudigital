@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iudigigital_app</string>
+    <string name="app_logo">logo_app</string>
+    <string name="app_usuario">Usuario</string>
+    <string name="app_contraseña">Contraseña</string>
+    <string name="app_ingresar">Ingresar</string>
+    <string name="app_registrar">Aún no estás registrado? Regístrate ahora</string>
+    <string name="app_registrar2">Regístrate para acceder a todas las funciones</string>
+    <string name="app_crear">Crear cuenta</string>
+    <string name="app_telefono">Numero de celular</string>
+    <string name="app_inicio">¿Ya tienes una cuenta? Inicia sesión aquí</string>
+    <string name="app_confirmar_contraseña">Confirmar contraseña</string>"
+</resources>

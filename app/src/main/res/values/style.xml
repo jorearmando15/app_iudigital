@@ -1,0 +1,9 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <style name="CustomButtonStyle">
+        <item name="android:backgroundTint">@color/azul</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
